@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/hhf/code/AI/09.homework/quiz-w8-doc/output/train/model.ckpt-6505"
+all_model_checkpoint_paths: "/home/hhf/code/AI/09.homework/quiz-w8-doc/output/train/model.ckpt-6505"
